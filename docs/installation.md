@@ -22,7 +22,7 @@ yum install numactl-devel -y
 ```shell
 # Download vllm
 cd ${HOME}
-git clone https://gitcode.com/gh_mirrors/vl/vllm.git --branch v0.8.3 vllm_source
+git clone https://github.com/vllm-project/vllm.git --branch v0.8.3 vllm_source
 
 # Install Conda
 conda_home=${HOME}/miniconda3
