@@ -1,6 +1,6 @@
 # vLLM大模型服务
 ## 商品连接
-[vLLM大模型服务](？？？)
+[vLLM大模型服务](https://marketplace.huaweicloud.com/hidden/contents/f99f5fc8-4cf1-4dc9-92a7-8ffc4dd2805e#productid=OFFI1135139479874867200)
 
 ## 商品说明
 [vLLM](http://github.com/vllm-project/vllm)是一个快速且易于使用的LLM推理和服务库。vLLM最初由加州大学伯克利分校的天空计算实验室开发，现在已经发展成为一个由学术界和工业界共同共享的社区驱动项目。
