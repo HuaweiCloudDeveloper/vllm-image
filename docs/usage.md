@@ -1,6 +1,6 @@
 # vLLM Large Model Service
 ## Product Link
-[vLLM Large Model Service](???)
+[vLLM Large Model Service](https://marketplace.huaweicloud.com/intl/hidden/contents/c4155469-8f2c-42d6-8d0c-ec927a56161f)
 
 ## Product Description
 [vLLM](http://github.com/vllm-project/vllm) is a fast and easy-to-use library for LLM inference and serving. Originally developed by the Sky Computing Lab at UC Berkeley, vLLM has evolved into a community-driven project jointly maintained by academia and industry.
