@@ -32,7 +32,7 @@ The open-source image product [**vLLM large model service**](https://marketplace
 | [vLLM-v0.8.3-Kunpeng](https://github.com/HuaweiCloudDeveloper/vllm-image/tree/vllm-v0.8.3-kunpeng/README.md) | Deployed on Kunpeng Cloud Server + Ubuntu 24.04 64bit / Huawei Cloud EulerOS 2.0 64bit |  |
 
 ## Getting Help
-- Submit questions via [GitHub Issues](https://github.com/HuaweiCloudDeveloper/ollama-image/issues) or contact Huawei Cloud Marketplace support for this product
+- Submit questions via [GitHub Issues](https://github.com/HuaweiCloudDeveloper/vllm-image/issues) or contact Huawei Cloud Marketplace support for this product
 - Explore other open-source images at [open-source-image-repos](https://github.com/HuaweiCloudDeveloper/open-source-image-repos)
 
 ## How to Contribute
